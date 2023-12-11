@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153402088043",
+    "project_id": "ecole-sofia",
+    "storage_bucket": "ecole-sofia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153402088043:android:6e1b5be7d88aae5833ef2e",
+        "android_client_info": {
+          "package_name": "com.ecoleSofia.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxy9OwNotj9BHB6vB_LCeRmtBx9Qph_KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
